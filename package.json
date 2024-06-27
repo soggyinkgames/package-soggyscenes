@@ -1,0 +1,27 @@
+{
+    "name": "com.soggyinkgames.package-soggyscenes",
+    "version": "0.0.1",
+    "displayName": "Soggy Scenes ",
+    "description": "a Soggy Ink Games Scenes package",
+    "unity": "2022.2",
+    "dependencies": {
+        "com.unity.probuilder": "5.0.7",
+        "com.unity.render-pipelines.universal": "14.0.7",
+        "com.unity.textmeshpro": "3.0.9"
+    },
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "author": {
+        "name": "SOGGY INK GAMES",
+        "email": "soggyinkgames@gmail.com",
+        "url": "https://www.soggyinkgames.com"
+    },
+    "samples": [
+        {
+            "displayName": "Soggy Scene Prototype Room",
+            "description": "a package of visual effects built by soggy ink games inspired by soggy balls",
+            "path": "Samples~/SoggyScenePrototypeRoom"
+        }
+    ]
+}
