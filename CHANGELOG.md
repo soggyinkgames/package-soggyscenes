@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/soggyinkgames/package-soggyscenes/compare/v1.0.0...v1.0.1) (2024-06-27)
+
+
+### Bug Fixes
+
+* add changelog meta file ([2fd0765](https://github.com/soggyinkgames/package-soggyscenes/commit/2fd076568f501eec3f134e95c1dfe55bdb82100e))
+
 # 1.0.0 (2024-06-27)
 
 
