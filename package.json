@@ -20,8 +20,18 @@
     "samples": [
         {
             "displayName": "Soggy Scene Prototype Room",
-            "description": "a package of visual effects built by soggy ink games inspired by soggy balls",
-            "path": "Samples~/SoggyScenePrototypeRoom"
+            "description": "a sample soggy scene prototype lab with curtains in the night sky",
+            "path": "Samples~/SoggyScene1"
+        },
+        {
+            "displayName": "Soggy Scene Prototype Room",
+            "description": "a sample soggy scene prototype lab, no curtains, floating in the clouds",
+            "path": "Samples~/SoggyScene2"
+        },
+        {
+            "displayName": "Soggy Scene Prototype Room",
+            "description": "a sample soggy scene prototype single lab room floating in the clouds",
+            "path": "Samples~/SoggyScene3"
         }
     ]
 }
