@@ -19,17 +19,17 @@
     },
     "samples": [
         {
-            "displayName": "Soggy Scene Prototype Room",
+            "displayName": "Soggy Scene 1",
             "description": "a sample soggy scene prototype lab with curtains in the night sky",
             "path": "Samples~/SoggyScene1"
         },
         {
-            "displayName": "Soggy Scene Prototype Room",
+            "displayName": "Soggy Scene 2",
             "description": "a sample soggy scene prototype lab, no curtains, floating in the clouds",
             "path": "Samples~/SoggyScene2"
         },
         {
-            "displayName": "Soggy Scene Prototype Room",
+            "displayName": "Soggy Scene 3",
             "description": "a sample soggy scene prototype single lab room floating in the clouds",
             "path": "Samples~/SoggyScene3"
         }
