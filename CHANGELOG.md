@@ -1,3 +1,17 @@
+## [1.1.1](https://github.com/soggyinkgames/package-soggyscenes/compare/v1.1.0...v1.1.1) (2024-07-02)
+
+
+### Bug Fixes
+
+* add material to room prefab ([eeef485](https://github.com/soggyinkgames/package-soggyscenes/commit/eeef4859587eafd4f393df2adeceb4be5b221b0e))
+* **SW-16:** add missing ceiling and corridor prefabs ([6d579be](https://github.com/soggyinkgames/package-soggyscenes/commit/6d579bec22731af9d9145075e9ae631eabdb626a))
+* **SW-18:**  point hdr to skybox materials, update scene 3 ([3916f79](https://github.com/soggyinkgames/package-soggyscenes/commit/3916f79c62c60f05929f79e75f18e0e0f23fcb8e))
+* **SW-18:** add new prefabs to each scene ([19616a2](https://github.com/soggyinkgames/package-soggyscenes/commit/19616a25f44460cf6b963e01b77bcdb9f3e16408))
+* **SW-18:** change skybox exposure, rotate, ([33c61b4](https://github.com/soggyinkgames/package-soggyscenes/commit/33c61b4870e853d3230a4e966eda9276e200913a))
+* **SW-18:** fix broken lab prefab ([0d17c61](https://github.com/soggyinkgames/package-soggyscenes/commit/0d17c616d3e3cb2a0695e0c01c933ac312cffbb4))
+* **SW-18:** rename samples folder ([f6cecbd](https://github.com/soggyinkgames/package-soggyscenes/commit/f6cecbdd42d7a77a4f8ed26273c4d66c8900867b))
+* **SW-18:** rename scene display names ([2eefed7](https://github.com/soggyinkgames/package-soggyscenes/commit/2eefed7d288d86eac1c35d35c21755d559de5b11))
+
 # [1.1.0](https://github.com/soggyinkgames/package-soggyscenes/compare/v1.0.1...v1.1.0) (2024-07-01)
 
 
